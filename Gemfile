@@ -38,3 +38,17 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+group :development, :test do
+  gem 'rspec'
+  gem 'rspec-rails'
+  gem 'guard'
+  gem 'terminal-notifier-guard'
+  gem 'pry-rails'
+  gem 'shoulda-matchers'
+  gem 'guard-rspec'
+  gem 'guard-bundler', require: false
+  gem 'capybara'
+  gem "factory_girl_rails"
+  gem 'rubocop'
+  gem 'simplecov', '~> 0.7.1', :require => false
+end

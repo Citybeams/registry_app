@@ -1,0 +1,32 @@
+{
+  "Cucumber Features": {
+    "coverage": {
+      "/Users/nicholaslohr/registry_app/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/nicholaslohr/registry_app/app/helpers/people_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/nicholaslohr/registry_app/app/controllers/people_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/nicholaslohr/registry_app/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/nicholaslohr/registry_app/app/models/person.rb": [
+        1,
+        null
+      ]
+    },
+    "timestamp": 1398693387
+  }
+}
